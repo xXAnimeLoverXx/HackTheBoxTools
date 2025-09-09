@@ -1,0 +1,15 @@
+# Comunes
+requests
+requests-toolbelt
+joblib
+numpy
+
+# Malware (PyTorch + vision + split)
+torch
+torchvision
+split-folders
+matplotlib
+
+# IMDB
+scikit-learn
+datasets
